@@ -19,7 +19,6 @@ jobs:
       Test_Project_Path: "wskcbsgen/wskcbsgen.csproj"
       Wap_Project_Directory: "wskcbsgen.Package"
       Wap_Project_Path: "wskcbsgen.Package/wskcbsgen.wapproj"
-      Platform: "x64"
 
     steps:
       - name: Checkout
